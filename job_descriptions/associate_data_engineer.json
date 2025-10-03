@@ -1,0 +1,28 @@
+{
+  "role": "Senior Backend Software Engineer",
+  "skills": [
+    "Python",
+    "C++",
+    "AWS Services",
+    "SQL",
+    "NoSQL databases (MySQL, PostgreSQL)",
+    "Atlassian JIRA",
+    "Confluence",
+    "Terraform",
+    "Git",
+    "CI/CD",
+    "Agile Methodologies"
+  ],
+  "requirements": [
+    "Master's degree in Computer Science or related field",
+    "Proven experience in developing and maintaining high-performance backend systems, APIs, and databases",
+    "Expertise in cloud infrastructure (AWS) and optimization (Terraform)",
+    "Strong understanding of database performance optimization and indexing strategies",
+    "Experience in designing and implementing robust APIs to handle large data volumes",
+    "Proficiency in integrating electronic healthcare management software",
+    "Demonstrated ability to collaborate with cross-functional and geographically dispersed teams",
+    "Experience in implementing machine learning algorithms for predictive analytics",
+    "Strong problem-solving and analytical skills",
+    "Experience with code reviews and improving code quality"
+  ]
+}

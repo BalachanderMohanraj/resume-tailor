@@ -1,0 +1,13 @@
+
+{
+  "role": "Data Engineer (Fresher)",
+  "skills": ["SQL", "Python", "ETL"],
+  "requirements": [
+    "Bachelor’s degree in Computer Science, Engineering, Data Science, or a related field (or equivalent)",
+    "Basic knowledge of SQL and Python",
+    "Understanding of relational and NoSQL databases (e.g., MySQL, PostgreSQL, MongoDB)",
+    "Experience with data pipelines and ETL tools",
+    "Familiarity with cloud platforms (AWS, GCP, Azure)",
+    "Willingness to learn and adapt to new technologies"
+  ]
+}
